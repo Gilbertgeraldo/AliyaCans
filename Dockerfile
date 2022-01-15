@@ -38,4 +38,4 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["pm2-runtime", "alya.js"]`
+CMD ["pm2-runtime", "main.js"]`
